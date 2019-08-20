@@ -1,0 +1,1 @@
+# dynamodb-mng-system-front
